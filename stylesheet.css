@@ -13,9 +13,9 @@ ul {
     font-size: 19px;
 }
 
-ol {
+li {
   font-size: 19px;
-  font-family: 'Arial';
+  font-family: 'Poppins', sans-serif;
   padding:15px;
   background-color: #D0D0D0;
   border:none;
