@@ -1,7 +1,7 @@
 body {
     background-color: #FF8975;
     text-align: center;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Arial'
 }
 
 ul {
@@ -15,7 +15,7 @@ ul {
 
 ol {
   font-size: 19px;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   padding:15px;
   background-color: #D0D0D0;
   border:none;
@@ -50,7 +50,7 @@ a {
   text-transform: uppercase;
   font-weight:bold;
   color: black;
-  font-family: 'Arvo' serif;
+  font-family: 'Arial','Helvetica';
   font-size: 20px;
 
 }
@@ -65,12 +65,12 @@ a:hover {
 
 h1 {
 font-size: 34px;
-font-family: 'Lobster Two' cursive;
+font-family: 'Lobster Two', cursive;
 background-color:white;
 }
 
 p {
   font-size:19px;
-  font-family: 'Arial' sans-serif;
+  font-family: 'Arial'
   padding:5px;
 }
