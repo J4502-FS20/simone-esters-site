@@ -9,13 +9,13 @@ ul {
     background-color: #D0D0D0;
     border: 2px solid black;
     padding:15px;
-    font-family: serif;
+    font-family: 'Poppins,' serif;
     font-size: 19px;
 }
 
 li {
   font-size: 19px;
-  font-family: serif;
+  font-family: 'Arvo,' sans-serif;
   padding:15px;
   background-color: #D0D0D0;
   border:none;
@@ -50,7 +50,7 @@ a {
   text-transform: uppercase;
   font-weight:bold;
   color: black;
-  font-family: serif;
+  font-family: 'Poppins,' serif;
   font-size: 20px;
 
 }
@@ -71,6 +71,6 @@ background-color:white;
 
 p {
   font-size:19px;
-  font-family: serif;
+  font-family: 'Arvo,' sans-serif;
   padding:5px;
 }
