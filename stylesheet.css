@@ -1,7 +1,7 @@
 body {
     background-color: #FF8975;
     text-align: center;
-    font-family: 'Arial';
+    font-family: serif;
 }
 
 ul {
@@ -9,13 +9,13 @@ ul {
     background-color: #D0D0D0;
     border: 2px solid black;
     padding:15px;
-    font-family: 'Poppins', serif;
+    font-family: serif;
     font-size: 19px;
 }
 
 li {
   font-size: 19px;
-  font-family: 'Poppins', serif;
+  font-family: serif;
   padding:15px;
   background-color: #D0D0D0;
   border:none;
@@ -71,6 +71,6 @@ background-color:white;
 
 p {
   font-size:19px;
-  font-family: 'Arial';
+  font-family: serif;
   padding:5px;
 }
