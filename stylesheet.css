@@ -50,7 +50,7 @@ a {
   text-transform: uppercase;
   font-weight:bold;
   color: black;
-  font-family: 'Arial','Helvetica';
+  font-family: serif;
   font-size: 20px;
 
 }
@@ -65,7 +65,7 @@ a:hover {
 
 h1 {
 font-size: 34px;
-font-family: 'Lobster', cursive;
+font-family: 'LobsterTwo', cursive;
 background-color:white;
 }
 
